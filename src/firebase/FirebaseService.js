@@ -1,5 +1,5 @@
 import {createUserWithEmailAndPassword, sendEmailVerification, signInWithEmailAndPassword, signOut } from "firebase/auth";
-import { getFirestore, addDoc, collection } from "firebase/firestore";
+import { getFirestore } from "firebase/firestore";
 import { app, auth } from "./Firebase";
 
  export const db = getFirestore(app);

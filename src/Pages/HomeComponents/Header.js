@@ -12,7 +12,7 @@ export const Header = () => {
     <div className='sticky w-full top-0' ref={header} id='heads'>
         <div className='flex w-full items-center justify-between font-semibold mx-auto lg:px-5'>
             <div className='lg:w-2/12 lg:py-6 py-3'>
-                <img src={require('../../assets/Mwbe 1 png (2).png')} className='lg:w-36 w-28' />
+                <img src={require('../../assets/Mwbe 1 png (2).png')} alt='logo' className='lg:w-36 w-28' />
             </div>
             <div className='w-8/12 hidden lg:block'>
                 <ul className='flex items-center justify-between uppercase'>

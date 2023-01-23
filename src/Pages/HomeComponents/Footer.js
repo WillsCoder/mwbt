@@ -6,7 +6,7 @@ export const Footer = () => {
     <div className='mt-36 relative bg-gray-900 w-full'>
         <div className='lg:flex items-center lg:pt-60 pt-36 pb-20 lg:pb-40 '>
             <div className='lg:w-4/12'>
-                <img src={require('../../assets/Mwbe 1 png (2).png')} className='mx-auto' />
+                <img src={require('../../assets/Mwbe 1 png (2).png')} alt='logo' className='mx-auto' />
             </div>
             <div className='lg:w-5/12 px-5 lg:px-0 mt-12 lg:mt-0 '>
                 <div>

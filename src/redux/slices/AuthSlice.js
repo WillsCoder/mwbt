@@ -1,12 +1,11 @@
 import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 import { setMessage } from "./Message";
-import { getFirestore, addDoc, collection } from "firebase/firestore";
+import { getFirestore } from "firebase/firestore";
 import { app } from "../../firebase/Firebase";
 import { signIn, signUp } from "../../firebase/FirebaseService";
 import { toast } from "react-toastify";
-import { Navigate } from "react-router";
 
-const user = JSON.parse(localStorage.getItem("user"));
+// const user = JSON.parse(localStorage.getItem("user"));
 export const db = getFirestore(app);
 
 const initialState = {
