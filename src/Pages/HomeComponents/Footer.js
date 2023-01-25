@@ -52,7 +52,7 @@ export const Footer = () => {
             </div>
         </div>
         <div className='bg-gray-200 text-gray-600 text-center py-8 px-8 lg:px-0'>
-            <p>© 2023 MAJOR WEIGHT BULLY TRIBE, ALL RIGHTS RESERVED</p>
+            <p>© 2023 MWBT Freight LLC, ALL RIGHTS RESERVED</p>
         </div>
     </div>
   )

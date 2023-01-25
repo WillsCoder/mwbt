@@ -21,7 +21,7 @@ export const Header = () => {
                     <li className='w-2/12 text-center'>Services</li>
                     <li className='w-2/12 text-center'>Blog</li>
                     <li className='w-2/12 text-center'>Contacts</li>
-                    <li className='w-2/12 text-center border py-2'>Qoute on Lane</li>
+                    <li className='w-2/12 text-center border py-2 block md:hidden xl:block'>Qoute on Lane</li>
                 </ul>
             </div>
             <div className='w-2/12 hidden lg:flex justify-end'>

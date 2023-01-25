@@ -24,8 +24,8 @@ export const Homepage = () => {
                 </div>
                 <div className='mt-10'>
                     <p className='tracking-widest text-gray-400'>PROFESSIONAL TRANSPORTATION SERVICE</p>
-                    <p className='mt-6 uppercase text-5xl lg:text-8xl lg:w-8/12 fw-700'>Major <span className='text-primary '>weight</span> bully tribe</p>
-                    <p className='mt-10 lg:w-5/12 w-8/12 text-xl text-gray-400'>At Major Weight Bully Tribe (MWBT), we guarantee quick and efficient delivery of any cargo to any part of the world.</p>
+                    <p className='mt-6 uppercase text-5xl lg:text-8xl lg:w-7/12  fw-700'>MWBT <span className='text-primary '>FREIGHT</span> LLC</p>
+                    <p className='mt-10 lg:w-5/12 w-8/12 text-xl text-gray-400'>At MWBT Freight LLC, we guarantee quick and efficient delivery of any cargo to any part of the world.</p>
                     <div className='flex items-center mt-10'>
                         <p>Follow Us</p>
                         <p className='h-1 w-10 bg-gray-100 mx-6'></p>
@@ -46,13 +46,13 @@ export const Homepage = () => {
                     <div className='lg:w-6/12'>
                         <p className='uppercase tracking-widest text-gray-400 text-xl'>About Us</p>
                         <p className='mt-8 lg:text-6xl text-4xl fw-700 text-secondary'>Your Logistics<span className='hollow'> Solution</span> Provider</p>
-                        <p className='mt-10'>Major Weight Bully Tribe (MWBT) specializes in providing freight shipping solutions whenever and wherever you need them. As an independent freight agency, we have access to one of the largest logistics networks in the industry, which means your business has access to this vast network too.</p>
+                        <p className='mt-10'>MWBT Freight LLC specializes in providing freight shipping solutions whenever and wherever you need them. As an independent freight agency, we have access to one of the largest logistics networks in the industry, which means your business has access to this vast network too.</p>
                         <p className='mt-3'>We are committed to providing our customers with quality service. We will work closely with you to develop the best logistics plan for your supply chain.</p>
                         <div className='mt-6 flex items-center'>
                             <p className='w-24 h-24 circle shadow-lg'></p>
                             <div className='pl-4 '>
                                 <p className='lg:text-xl '>Full Name</p>
-                                <p className='text-gray-500 fs-500'>Founder of Major Weight Bully Tribe</p>
+                                <p className='text-gray-500 fs-500'>Founder of MWBT Freight LLC</p>
                             </div>
                         </div>
                     </div>
